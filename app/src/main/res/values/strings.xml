@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hexa_decimal">hexa-decimal</string>
+    <string name="decimal">Decimal</string>
+    <string name="octal">Octal</string>
+    <string name="binary">Binary</string>
+
+    <string-array name="type_of_number">
+        <item>binary</item>
+        <item>octal</item>
+        <item>decimal</item>
+        <item>hexa-decimal</item>
+    </string-array>
+</resources>
